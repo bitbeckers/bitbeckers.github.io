@@ -8,6 +8,9 @@ This is a plug-and-play Jekyll theme best suited to use on [GitHub Pages](https:
 
 reverie - _a state of being pleasantly lost in one's thoughts; a daydream._<br><sup>/ˈrɛv(ə)ri/</sup> 
 
+## Special thanks
+[Hatchful](https://hatchful.shopify.com/) for the logo
+
 
 ## License
 
