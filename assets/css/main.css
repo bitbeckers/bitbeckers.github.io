@@ -1966,6 +1966,10 @@ input, select, textarea {
 		text-align: center;
 	}
 
+		#header div {
+			margin: 20px;
+		}
+
 		header p {
 			position: relative;
 			top: -1em;
@@ -2675,8 +2679,9 @@ input, select, textarea {
 				.feature.left .image img {
 					right: 0;
 					top: 0;
-					width: auto;
 					height: 100%;
+					width: auto;
+					object-fit: cover;
 					}
 
 			.feature.left .content {
@@ -2694,8 +2699,6 @@ input, select, textarea {
 				.feature.right .image img {
 					left: 0;
 					top: 0;
-					width: auto;
-					height: 100%;
 				}
 
 			.feature.right .content {
@@ -3122,9 +3125,9 @@ input, select, textarea {
 				margin-bottom: 2em;
 			}
 
-				/* header.major br {
+				header.major br {
 					display: none;
-				} */
+				}
 
 				header.major p {
 					font-size: 0.8em;
